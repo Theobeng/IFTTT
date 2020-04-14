@@ -1,4 +1,4 @@
 # IFTTT
 Project using IFTTT
 
-This is the project made using IFTTT
+This is Bravo Button project using IFTTT
